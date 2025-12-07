@@ -68,7 +68,7 @@ I am learning **Git, GitHub, Python, AI tools, and English** to work remotely fo
 
 ## About Me
 
-- **Name:** Minoru Ashikari (焚き火社長)
+- **Name:** Minoru Ashikari (MINO)
 - **Location:** Kuala Lumpur, Malaysia
 - **Background:** SNS Director, content creator, podcast host, and video editor
 - **Current Focus:** Python, Git, AI tools (LLMs), and English (C1 level)
